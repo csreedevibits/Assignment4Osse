@@ -1,4 +1,4 @@
-## Profile Page of OSSSE Assignment 4 - Group #11
+## Profile Page of OSSE Assignment 4 - Group #11
 
 ## Contributors : 
 1) C.Sreedevi(2020mt93105) <br>
