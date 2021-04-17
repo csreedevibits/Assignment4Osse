@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## OSSSE Assignment 4 - Group #11
 
-You can use the [editor on GitHub](https://github.com/csreedevibits/Assignment4Osse/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Contributors : C.Sreedevi(2020mt93105), Ramakrishna Bolisetty(2020mt93036) and Bommana Sesibhushana Rao(2020mt93266)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
