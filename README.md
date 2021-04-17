@@ -1,9 +1,12 @@
 # Assignment4Osse
-#Contributors - Sreedevi(2020mt93105), Ramakrishna(2020mt93036), Sesibhushana(2020mt93266)
+Contributors - Sreedevi(2020mt93105), Ramakrishna(2020mt93036), Sesibhushana(2020mt93266)
 
 # About Project
 
-
+This is a one page Bootstrap generic theme created for OSSE Assignment 4.<br />
+This one page bootstrap theme can be used to create portfolio websites.<br />
+Currently, We have added Lorem ipsum text as placeholder text; This can be later be changed to content.<br />
+This theme is majorly inspired from templates in "BootstrapMade.com".<br />
 
 
 
@@ -12,7 +15,7 @@
 
 |Assignee      |   PR                                                        |Comments   
 |--------------|-------------------------------------------------------------|------------------------------------------------------------------------
-|Ramakrishna   |     https://github.com/csreedevibits/Assignment4Osse/pull/1 |
+|Ramakrishna   |     https://github.com/csreedevibits/Assignment4Osse/pull/1 | Intial push
 |Sreedevi      |     https://github.com/csreedevibits/Assignment4Osse/pull/2 | Adding another para
 |Ramakrishna   |     https://github.com/csreedevibits/Assignment4Osse/pull/3 | Merge to main
 |Ramakrishna   |     https://github.com/csreedevibits/Assignment4Osse/pull/4 | merge to main
