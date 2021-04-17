@@ -28,7 +28,8 @@
 |Sreedevi      |     https://github.com/csreedevibits/Assignment4Osse/pull/27| Updating profile page
 |Sreedevi      |     https://github.com/csreedevibits/Assignment4Osse/pull/27| Updating profile page
 |Sesibommana   |     https://github.com/csreedevibits/Assignment4Osse/pull/27| Added a new file
-|Sesibommana   |     https://github.com/csreedevibits/Assignment4Osse/pull/27| Fixed the issue#1
+|Sesibommana   |     https://github.com/csreedevibits/Assignment4Osse/pull/28| Fixed the issue#1
+|Sesibommana   |     https://github.com/csreedevibits/Assignment4Osse/pull/29| Added hello world.py
 
 
 
