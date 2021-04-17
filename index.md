@@ -15,7 +15,11 @@ This theme is majorly inspired from templates in "BootstrapMade.com". <br>
 https://github.com/csreedevibits/Assignment4Osse/blob/main/README.md
 
 ## Contents :
-Repository Link - https://github.com/csreedevibits/Assignment4Osse.git
+Repository Link - https://github.com/csreedevibits/Assignment4Osse.git <br>
                   git@github.com:csreedevibits/Assignment4Osse.git
+                  
+ Forked repos- https://github.com/ramakrishnabolisetty007/Assignment4Osse <br>
+               https://github.com/sesibommana/Assignment4Osse
+
 
 
