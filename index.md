@@ -11,10 +11,11 @@ This one page bootstrap theme can be used to create portfolio websites. <br>
 Currently, We have added Lorem ipsum text as placeholder text; This can be later be changed to content. <br>
 This theme is majorly inspired from templates in "BootstrapMade.com". <br>
 
-## Readme link :
+## Readme Link :
 https://github.com/csreedevibits/Assignment4Osse/blob/main/README.md
 
 ## Contents :
 Repository Link - https://github.com/csreedevibits/Assignment4Osse.git
+                  git@github.com:csreedevibits/Assignment4Osse.git
 
 
