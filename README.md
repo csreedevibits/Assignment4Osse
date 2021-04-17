@@ -27,7 +27,8 @@
 |Sreedevi      |     https://github.com/csreedevibits/Assignment4Osse/pull/17| Merge to main
 |Sreedevi      |     https://github.com/csreedevibits/Assignment4Osse/pull/27| Updating profile page
 |Sreedevi      |     https://github.com/csreedevibits/Assignment4Osse/pull/27| Updating profile page
-|Sesibommana      |     https://github.com/csreedevibits/Assignment4Osse/pull/27| Added a new file
+|Sesibommana   |     https://github.com/csreedevibits/Assignment4Osse/pull/27| Added a new file
+|Sesibommana   |     https://github.com/csreedevibits/Assignment4Osse/pull/27| Fixed the issue#1
 
 
 
